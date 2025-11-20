@@ -44,11 +44,6 @@
 
 ## 📊 GitHub Analytics
 
-### **🔥 Contribution Streak**
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lokhacodes&theme=transparent" />
-</p>
-
 ### **📈 Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lokhacodes&show_icons=true&theme=transparent" height="150"/>
