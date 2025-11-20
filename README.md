@@ -51,16 +51,8 @@
 
 ### **📈 Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumaiyasonali421&show_icons=true&theme=transparent" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyasonali421&layout=compact&theme=transparent" height="150"/>
-</p>
-
----
-
-## 👀 Visitor Count  
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sumaiyasonali421&style=flat-square">
+  <img src="https://github-readme-stats.vercel.app/api?username=lokhacodes&show_icons=true&theme=transparent" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokhacodes&layout=compact&theme=transparent" height="150"/>
 </p>
 
 ---
